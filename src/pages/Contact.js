@@ -2,8 +2,8 @@ import React from 'react'
 
 function Contact() {
   return (
-    <div>
-      
+    <div className="contact">
+      <p> You are currently on the Contact Page</p>
     </div>
   )
 }
